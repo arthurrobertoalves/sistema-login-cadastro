@@ -1,0 +1,49 @@
+body{
+    background: rgb(136, 1, 1);
+}
+
+
+h1{
+    color: #d8bdbd;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+input{
+
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ffffff;
+    background-color: #000000;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+label{
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+    .placeholder{
+    color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+}
+button{
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
